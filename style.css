@@ -1,0 +1,42 @@
+body
+{
+	background: url("background img.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(87, 190, 238);
+		padding: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-top: 80px;
+		float: none;
+		border-radius: 20px;
+        border-width: 5px;
+        border-color: rgb(221, 18, 18);
+	}
+
+
+
+   
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+#login_btn{
+   
+    border-radius: 30px;
+    text-align: center;
+    margin-left:570px;
+    border-width: 5px;
+    border-color: black;
+}
+
+#footer{
+    color: rgb(2, 246, 84);
+}
